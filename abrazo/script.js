@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "No es momento de mimi, aun no xD ​​";
+  question.innerHTML = "No te olvides de ser feliz :v​​";
   gif.src = "img/foto.png";
   // Cambiar el tamaño con JavaScript
   gif.style.width = "300px";
